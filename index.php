@@ -1,4 +1,6 @@
 <?php
-require 'pokemon.php';
-require 'charmeleon.php';
-require 'pikachu.php';
+require 'Pokemon.php';
+require 'Charmeleon.php';
+require 'Pikachu.php';
+
+echo 'hello world';
