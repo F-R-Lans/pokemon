@@ -1,5 +1,8 @@
 <?php 
 
+require Pikachu.php;
+require Charmeleon.php;
+
 class Pokemon {
     public $name;
     public $energyType;
